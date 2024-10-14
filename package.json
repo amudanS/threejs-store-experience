@@ -1,0 +1,20 @@
+{
+  "name": "threejs-store-experience",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx live-server ./src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+  
+}
